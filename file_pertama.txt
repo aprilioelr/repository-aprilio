@@ -1,0 +1,12 @@
+bracket pair color DLW
+indent-rainbow
+ESLint
+laravel snippets
+live server
+material icon theme
+one dark pro
+path intellisense
+php intelephense
+power mode
+tailwind css intellisense
+prettier
